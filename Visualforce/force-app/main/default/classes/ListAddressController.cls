@@ -4,7 +4,7 @@ public with sharing class ListAddressController {
             if(setAddresses == null) {
                 setAddresses = new ApexPages.StandardSetController(
                     Database.getQueryLocator(
-                        [SELECT Name, AddressType, Country, Description FROM System.Address]
+                        [SELECT Name, AddressType, Country, Description FROM Address]
                     )
                 );
             }
@@ -14,8 +14,8 @@ public with sharing class ListAddressController {
     }
 
     // Initialize setCon and return a list of records
-    public List<Topic> getAddresses() {
-        return (List<Topic>) setAddresses.getRecords();
+    public List<Schema.Address> getAddresses() {
+        return (List<Schema.Address>) setAddresses.getRecords();
     }
 
     public Pagereference goToTopic(){

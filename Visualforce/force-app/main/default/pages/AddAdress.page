@@ -10,8 +10,8 @@
       <!-- Fields -->
       <apex:pageBlockSection columns="3" showHeader="true" title="Addresses Status">
         <apex:inputField value="{!address.AddressType}" required="true" />
-        <apex:inputField value="{!address.Description}" required="true" />
         <apex:inputField value="{!address.Country}" required="true" />
+        <apex:inputField value="{!address.Description}" required="true" />
       </apex:pageBlockSection>
 
       <!-- Button Section -->
