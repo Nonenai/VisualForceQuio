@@ -1,0 +1,24 @@
+<apex:page controller="ListAddressController">
+  <!-- Page Header -->
+  <apex:sectionHeader title="Address List" subtitle="List all Addresses" />
+
+  <apex:pageBlock>
+    <apex:pageBlockTable value="{!addresses}" var="address">
+      <apex:column value="{!address.Description}" />
+      <apex:column value="{!address.Country}" />
+      <apex:column value="{!address.AddressType}" />
+    </apex:pageBlockTable>
+  </apex:pageBlock>
+
+  <apex:pageBlock>
+    <apex:pageBlockSection>
+      <apex:dataList value="{!addresses}" var="address" type="1">
+        {!address.Name} {!address.Description} {!address.Country} {!address.AddressType}
+      </apex:dataList>
+    </apex:pageBlockSection>
+  </apex:pageBlock>
+
+  <apex:form>
+    <apex:commandButton value="Go to Account Form" action="{!goToAddress}" />
+</apex:form>
+</apex:page>

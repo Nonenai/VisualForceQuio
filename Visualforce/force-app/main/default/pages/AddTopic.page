@@ -1,0 +1,29 @@
+<apex:page standardController="Topic" extensions="TopicController">
+
+
+
+  <!-- Begin Form -->
+  <apex:form>
+    <apex:pageBlock title="add Topic" mode="edit">
+
+
+      <!-- Fields -->
+      <apex:pageBlockSection columns="3" showHeader="true" title="Topics Status">
+        <apex:inputField value="{!topic.Name}" required="true" />
+        <apex:inputField value="{!topic.Description}" required="true" />
+
+      </apex:pageBlockSection>
+
+      <!-- Button Section -->
+      <apex:pageBlockButtons location="bottom">
+        <apex:commandButton value="Save topic" action="{!save}" />
+      </apex:pageBlockButtons>
+    </apex:pageBlock>
+  </apex:form>
+  <apex:form>
+    <apex:commandButton value="Go to List" action="{!goToList}" />
+  </apex:form>
+  <apex:form>
+    <apex:commandButton value="Go to Topic Form" action="{!goToAddress}" />
+  </apex:form>
+</apex:page>

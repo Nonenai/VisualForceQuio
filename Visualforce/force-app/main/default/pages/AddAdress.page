@@ -1,0 +1,29 @@
+<apex:page standardController="Address" extensions="AddressController">
+
+
+
+  <!-- Begin Form -->
+  <apex:form>
+    <apex:pageBlock title="add address" mode="edit">
+
+
+      <!-- Fields -->
+      <apex:pageBlockSection columns="3" showHeader="true" title="Addresses Status">
+        <apex:inputField value="{!address.AddressType}" required="true" />
+        <apex:inputField value="{!address.Description}" required="true" />
+        <apex:inputField value="{!address.Country}" required="true" />
+      </apex:pageBlockSection>
+
+      <!-- Button Section -->
+      <apex:pageBlockButtons location="bottom">
+        <apex:commandButton value="Save address" action="{!save}" />
+      </apex:pageBlockButtons>
+    </apex:pageBlock>
+  </apex:form>
+  <apex:form>
+    <apex:commandButton value="Go to List" action="{!goToList}" />
+  </apex:form>
+  <apex:form>
+    <apex:commandButton value="Go to Topic Form" action="{!goToTopic}" />
+  </apex:form>
+</apex:page>

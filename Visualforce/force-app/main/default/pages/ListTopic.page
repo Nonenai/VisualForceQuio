@@ -1,0 +1,23 @@
+<apex:page controller="ListTopicController">
+  <!-- Page Header -->
+  <apex:sectionHeader title="Topics List" subtitle="List all topics" />
+
+  <apex:pageBlock>
+    <apex:pageBlockTable value="{!topics}" var="topic">
+      <apex:column value="{!topic.Name}" />
+      <apex:column value="{!topic.Description}" />
+    </apex:pageBlockTable>
+  </apex:pageBlock>
+
+  <apex:pageBlock>
+    <apex:pageBlockSection>
+      <apex:dataList value="{!topics}" var="topic" type="1">
+        {!topic.Name} {!topic.Description}
+      </apex:dataList>
+    </apex:pageBlockSection>
+  </apex:pageBlock>
+
+  <apex:form>
+    <apex:commandButton value="Go to Topic Form" action="{!goToTopic}" />
+</apex:form>
+</apex:page>
