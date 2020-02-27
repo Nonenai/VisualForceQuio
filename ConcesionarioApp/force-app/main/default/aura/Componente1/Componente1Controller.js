@@ -9,8 +9,8 @@
         var color = component.find("color").get('v.value');
         component.set("v.color", color);
 
-        var precio = component.find("precio").get('v.value');
-        component.set("v.price", precio);
+        var anyo = component.find("anyo").get('v.value');
+        component.set("v.year", anyo);
         
        
         
@@ -20,6 +20,6 @@
     },
 
     handleClick: function(component, event, helper){
-        helper.augmentObject(component, event);
+        helper.setObjectValues(component, event);
     }
 })

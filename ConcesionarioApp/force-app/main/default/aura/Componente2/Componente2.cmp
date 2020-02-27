@@ -1,0 +1,32 @@
+<aura:component controller="Controlador" access="global">
+    <aura:attribute name="model" type="String" />
+    <aura:attribute name="color" type="String" />
+    <aura:attribute name="year" type="Integer" />
+    <aura:attribute name="concessionarie" type="Object[]" />
+    
+    <div class="c-container">
+        <lightning:button label="llamar a Aura Controller" onclick="{!c.callAuraMethod}"/>
+        <table>
+            <tr>
+                <th>Modelo</th>
+                <th>Color</th>
+                <th>Año</th>
+                <th>En venta</th>
+                <th>Valor</th>
+                <th>ACTION</th>
+                <th>ACTION</th>
+
+            </tr>
+          <aura:iteration var="car" items="{!v.concessionarie}">
+              <tr>
+                  <td >{!car.model}</td>
+                  <td >{!car.color}</td>
+                  <td>{!car.price}</td>
+                  <td></td>
+                  <td><lightning:button label="Calcular Precio" /></td>
+                  <td><lightning:button label="Poner a la venta" /></td>
+              </tr>
+          </aura:iteration>
+      </table>
+      </div>
+</aura:component>	
