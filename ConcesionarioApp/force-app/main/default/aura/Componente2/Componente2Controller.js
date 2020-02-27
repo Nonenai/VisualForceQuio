@@ -16,8 +16,8 @@
                 
                var concesionario = component.get("v.concessionarie"); 
                concesionario.push(action.getParams({coche})) ;   
-               component.set("v.concessionarie", conce);    
-                //alert(action.getParams({coche}).model);       
+               component.set("v.concessionarie", concesionario);    
+                     
             }
         });
         $A.enqueueAction(action);

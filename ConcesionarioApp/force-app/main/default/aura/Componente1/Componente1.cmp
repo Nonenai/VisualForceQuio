@@ -2,7 +2,7 @@
     <aura:attribute name="model" type="String" />
     <aura:attribute name="color" type="String" />
     <aura:attribute name="year" type="Integer" />
-    <aura:attribute name="concessionaire" type="Object[]" />
+    <aura:attribute name="concessionarie" type="Object[]" />
     <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
 
     <div>
@@ -12,10 +12,10 @@
             <lightning:input type="text" aura:id="color" label="Color"/>
             
             <lightning:input type="number" aura:id="anyo" label="Año"/>
-            <lightning:button variant="brand" label="Preparar" onclick="{! c.setCar }"/>
-            <lightning:button variant="brand" label="Enviar" onclick="{! c.handleClick }"/>
+            <lightning:button variant="brand" label="Preparar" onclick="{!c.setCar}"/>
+            <lightning:button variant="brand" label="Enviar" onclick="{!c.handleClick}"/>
        
     </div>
- 
+    <aura:handler event="c:passCarEvent" action="{!c.handleEvent}"/>
 </aura:component>	
       

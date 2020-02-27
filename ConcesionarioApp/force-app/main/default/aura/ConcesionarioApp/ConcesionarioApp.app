@@ -1,5 +1,4 @@
 <aura:application>
     <c:Componente1/>
-    
-    <aura:registerEvent name="passCarEvent" type="c:passCarEvent"/>
+    <c:Componente2/>
 </aura:application>	

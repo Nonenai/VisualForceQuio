@@ -1,0 +1,614 @@
+[
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1582791205403,
+            "changeTime": 1582791205640,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1582791205405,
+            "changeTime": 1582791205405,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1582791205485,
+            "changeTime": 1582791205485,
+            "contentHash": "a21009004cd572d890d65233421722a21fcb20a4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1582792615727,
+            "changeTime": 1582792615727,
+            "contentHash": "6db2e1ca05a8e58370cedd755829a9eea928ccd0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente1",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente1",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1582791205424,
+            "changeTime": 1582791205424,
+            "contentHash": "36859aab7bc0b60b17406cc0da3a576ea7702a72",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente1\\Componente1.auradoc",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente1\\Componente1.auradoc",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1582787746002,
+            "changeTime": 1582787746002,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente1\\Componente1.cmp",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente1\\Componente1.cmp",
+            "isDirectory": false,
+            "size": 815,
+            "modifiedTime": 1582792955107,
+            "changeTime": 1582792955107,
+            "contentHash": "da72b8d2350395da1bd6ef2942e7a3b14b8b53b5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente1\\Componente1.cmp-meta.xml",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente1\\Componente1.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 232,
+            "modifiedTime": 1582787746026,
+            "changeTime": 1582787746026,
+            "contentHash": "7df184a17f22b90d48e30d7d4e18734eba8b03af",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente1\\Componente1.css",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente1\\Componente1.css",
+            "isDirectory": false,
+            "size": 12,
+            "modifiedTime": 1582787746027,
+            "changeTime": 1582787746027,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente1\\Componente1.design",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente1\\Componente1.design",
+            "isDirectory": false,
+            "size": 42,
+            "modifiedTime": 1582787746028,
+            "changeTime": 1582787746028,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente1\\Componente1.svg",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente1\\Componente1.svg",
+            "isDirectory": false,
+            "size": 670,
+            "modifiedTime": 1582787746028,
+            "changeTime": 1582787746028,
+            "contentHash": "a329e5564b402542011689e5ed40ac3f55c99625",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente1\\Componente1Controller.js",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente1\\Componente1Controller.js",
+            "isDirectory": false,
+            "size": 695,
+            "modifiedTime": 1582792764885,
+            "changeTime": 1582792764885,
+            "contentHash": "277b3f268859f130dfea0ddcbd73e719face02e2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente1\\Componente1Helper.js",
+        {
+            "state": "u",
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente1\\Componente1Helper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 943,
+            "modifiedTime": 1582794382034,
+            "changeTime": 1582794382034,
+            "isWorkspace": false,
+            "contentHash": "1f270eb2852b7cc81391088dbd0ceeeea1f50efa"
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente1\\Componente1Renderer.js",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente1\\Componente1Renderer.js",
+            "isDirectory": false,
+            "size": 55,
+            "modifiedTime": 1582787746032,
+            "changeTime": 1582787746032,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente2",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente2",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1582792615777,
+            "changeTime": 1582792615777,
+            "contentHash": "53da9edde0a9d13bdd6cad0571da0f21d0ea2f9f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente2\\Componente2.auradoc",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente2\\Componente2.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1582792615730,
+            "changeTime": 1582792615730,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente2\\Componente2.cmp",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente2\\Componente2.cmp",
+            "isDirectory": false,
+            "size": 1142,
+            "modifiedTime": 1582793877837,
+            "changeTime": 1582793289875,
+            "contentHash": "1b2f5cd7a04804dae5bf5aa27d707dd614f118f5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente2\\Componente2.cmp-meta.xml",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente2\\Componente2.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1582792615728,
+            "changeTime": 1582792615728,
+            "contentHash": "424027deabb738d5b64aa2e2ccb076bc229a985c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente2\\Componente2.css",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente2\\Componente2.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1582792615733,
+            "changeTime": 1582792615733,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente2\\Componente2.design",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente2\\Componente2.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1582792615734,
+            "changeTime": 1582792615734,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente2\\Componente2.svg",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente2\\Componente2.svg",
+            "isDirectory": false,
+            "size": 664,
+            "modifiedTime": 1582792615756,
+            "changeTime": 1582792615756,
+            "contentHash": "6a3a9c1d5556db4bde25af9ef0957c47feb17739",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente2\\Componente2Controller.js",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente2\\Componente2Controller.js",
+            "isDirectory": false,
+            "size": 754,
+            "modifiedTime": 1582794008919,
+            "changeTime": 1582794008919,
+            "contentHash": "a6299239b8feb65c67501ce1937b0ff3ca6b426b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente2\\Componente2Helper.js",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente2\\Componente2Helper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1582792615776,
+            "changeTime": 1582792615776,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente2\\Componente2Renderer.js",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\Componente2\\Componente2Renderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1582792615777,
+            "changeTime": 1582792615777,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\ConcesionarioApp",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\ConcesionarioApp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1582792060870,
+            "changeTime": 1582792060870,
+            "contentHash": "fe520048183ea0d05643f298e92f3c44a88b3279",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\ConcesionarioApp\\ConcesionarioApp.app",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\ConcesionarioApp\\ConcesionarioApp.app",
+            "isDirectory": false,
+            "size": 150,
+            "modifiedTime": 1582794054867,
+            "changeTime": 1582793517414,
+            "contentHash": "d8cc4825a068768c3bc170cf79eb5e94ad9d11de",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\ConcesionarioApp\\ConcesionarioApp.app-meta.xml",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\ConcesionarioApp\\ConcesionarioApp.app-meta.xml",
+            "isDirectory": false,
+            "size": 229,
+            "modifiedTime": 1582792059186,
+            "changeTime": 1582792059186,
+            "contentHash": "74f413a68a6ffdb5fc3c2fc9c1d9fabd5a7c33d6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\ConcesionarioApp\\ConcesionarioApp.auradoc",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\ConcesionarioApp\\ConcesionarioApp.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1582792059188,
+            "changeTime": 1582792059188,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\ConcesionarioApp\\ConcesionarioApp.css",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\ConcesionarioApp\\ConcesionarioApp.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1582792060866,
+            "changeTime": 1582792060866,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\ConcesionarioApp\\ConcesionarioApp.svg",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\ConcesionarioApp\\ConcesionarioApp.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1582792060870,
+            "changeTime": 1582792060870,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\ConcesionarioApp\\ConcesionarioAppController.js",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\ConcesionarioApp\\ConcesionarioAppController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1582792059190,
+            "changeTime": 1582792059190,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\ConcesionarioApp\\ConcesionarioAppHelper.js",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\ConcesionarioApp\\ConcesionarioAppHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1582792060867,
+            "changeTime": 1582792060867,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\ConcesionarioApp\\ConcesionarioAppRenderer.js",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\ConcesionarioApp\\ConcesionarioAppRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1582792060869,
+            "changeTime": 1582792060869,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\passCarEvent",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\passCarEvent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1582791654835,
+            "changeTime": 1582791654835,
+            "contentHash": "154ea5de1b96dbdf2d0de60768479ec70ef48029",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\passCarEvent\\passCarEvent.evt",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\passCarEvent\\passCarEvent.evt",
+            "isDirectory": false,
+            "size": 126,
+            "modifiedTime": 1582791675727,
+            "changeTime": 1582791675727,
+            "contentHash": "623ecef1dc9763360efd5dcca9c1b8668cc9eb18",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\passCarEvent\\passCarEvent.evt-meta.xml",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\aura\\passCarEvent\\passCarEvent.evt-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1582791654834,
+            "changeTime": 1582791654834,
+            "contentHash": "b22bb8b080b0ed1f38c022b55ab5c2f9778087ef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1582791205483,
+            "changeTime": 1582791205483,
+            "contentHash": "cd2898d016857686ee69b7ba414e8abafb659c59",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\classes\\Controlador.cls",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\classes\\Controlador.cls",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1582791308866,
+            "changeTime": 1582791308866,
+            "contentHash": "e503daeea2f33029d4d228cf4551804d9ca24c5b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\classes\\Controlador.cls-meta.xml",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\classes\\Controlador.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1582787746047,
+            "changeTime": 1582787746047,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1582791205487,
+            "changeTime": 1582791205487,
+            "contentHash": "56f2d335ffa27c20b4ea310cf0214fa96f325894",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp",
+        {
+            "sourcePath": "e:\\Salesforce\\SalesforceExamen\\ConcesionarioApp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1582791205494,
+            "changeTime": 1582791205494,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

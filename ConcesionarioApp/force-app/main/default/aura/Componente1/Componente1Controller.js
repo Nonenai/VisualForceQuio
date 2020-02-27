@@ -21,5 +21,9 @@
 
     handleClick: function(component, event, helper){
         helper.setObjectValues(component, event);
+    },
+    
+    handleEvent: function(component, event, helper){
+        
     }
 })

@@ -5,11 +5,11 @@
         component.set('v.concessionarie', concesionario);
     },
 
-    createObj: function(model, color, price){
+    createObj: function(model, color, year){
         var coche = new Object();
         coche.model = model;
         coche.color = color;
-        coche.price = price;
+        coche.year = year;
         return coche;
     },
 
@@ -20,7 +20,7 @@
         var year = component.get('v.year');
         concesionario.push(this.createObj(model, color, year));
         component.set('v.concessionarie', concesionario);
-        var appevent =$A.get("e.c:myevent");
+        var appevent =$A.get("e.c:passCarEvent");
         appevent.setParams({"car":this.createObj(model, color, year)});
         console.log("firing event");
         appevent.fire();
