@@ -1,0 +1,38 @@
+<aura:component>
+    <aura:attribute name="model" type="String" />
+    <aura:attribute name="color" type="String" />
+    <aura:attribute name="price" type="String" />
+    <aura:attribute name="concessionarie" type="Object[]" />
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+
+    <div>
+            
+            <lightning:input type="text" aura:id="input1" label="Nombre"/>
+           
+            <lightning:input type="text" aura:id="input2" label="Color"/>
+            
+            <lightning:input type="number" aura:id="input3" label="Precio"/>
+            <lightning:button variant="brand" label="Preparar" onclick="{! c.setCar }"/>
+            <lightning:button variant="brand" label="Enviar" onclick="{! c.handleClick }"/>
+       
+    </div>
+    <div>
+      <table>
+          <tr>
+              <td>Modelo</td>
+              <td>Color</td>
+              <td>Precio</td>
+              <td>Vender</td>
+          </tr>
+        <aura:iteration var="car" items="{!v.concessionarie}">
+            <tr>
+                <td style="color: blue; background-color: crimson;">{!car.model}</td>
+                <td style="color:cadetblue; background-color: darkgreen;">{!car.color}</td>
+                <td style="color: chocolate; background: darkmagenta;">{!car.price}</td>
+                <td><lightning:button label="Vender" onclick="alert(indexVar)"/></td>
+            </tr>
+        </aura:iteration>
+    </table>
+    </div>
+</aura:component>	
+      
